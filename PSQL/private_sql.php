@@ -1,9 +1,6 @@
 <?php
-
 //Create connection to database:
-
-$connecionstr="host='localhost' port='5432' dbname='Personal' user='postgres' password='123456' options='--client_encoding=UTF8'";
-$dbconn = pg_connect($connecionstr);
+$dbconn = pg_connect(getenv("DATABASE_URL"));
 // connection check
 if (!$dbconn) {
 	die("Connection failed: " . pg_connect_error());
