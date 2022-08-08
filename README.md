@@ -6,5 +6,5 @@
 There is also a <a color="red" href="https://airlines-demo-version.herokuapp.com/private.php">private</a> side of airlines for employees-users that can see more details about flights and can add aircrafts in database
 
 
-<p align="left">This is the ER diagram:</p>
+<p align="left">    This is the ER diagram:</p>
 <img align="left" width="500" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/ER%20diagram%20copy.jpg"/>
