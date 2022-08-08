@@ -4,9 +4,7 @@
 
 ><b>.Hack code language is .php code</b><br>
 ```diff
-There is also a <a color="red" href="https://airlines-demo-version.herokuapp.com/private.php">
-private
-</a> side of airlines for employees-users that can see more details about flights and can add aircrafts in database
+There is also a <a color="red" href="https://airlines-demo-version.herokuapp.com/private.php">-private</a> side of airlines for employees-users that can see more details about flights and can add aircrafts in database
 
 
 <p align="left">At the left side you can see the entity relational diagram and from the other side you can see the relational diagram of the database</p>
