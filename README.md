@@ -7,4 +7,4 @@ There is also a <a href="https://airlines-demo-version.herokuapp.com/private.php
 
 
 
-<img align="center" src="https://github.com/PanagiotisMenounos/3DHex/blob/develop/docs/img/gui/GUI_Main.PNG" />
+<img align="center" src="[https://github.com/PanagiotisMenounos/3DHex/blob/develop/docs/img/gui/GUI_Main.PNG](https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/ER%20diagram%20copy.jpg)" />
