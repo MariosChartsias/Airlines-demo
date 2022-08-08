@@ -7,4 +7,4 @@ There is also a <a color="red" href="https://airlines-demo-version.herokuapp.com
 
 
 
-<img align="center" width="400" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/ER%20diagram%20copy.jpg"/>
+<img align="center" width="500" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/ER%20diagram%20copy.jpg"/>
