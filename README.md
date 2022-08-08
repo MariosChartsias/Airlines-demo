@@ -1,2 +1,13 @@
-# Airlines-demo
+<a href="https://airlines-demo-version.herokuapp.com/"><h1 align="center">airlines-demo</h1></a>
+
+><b>.Hack code language is .php code</b><br>
+
+<h5>this is a short version of airlines</h5>
+
+<p> main file is Index.php 
+ Index is the home page and sign_up.php is the registration of user giving personal informations such as credit card number. 
+ sign_up.php file saves your personal info in a postgreSQL DB named:"personal" at the table:"info".
+ User has the ability to login by email(as username) and password at the personal info which is not realistic model 
+ because of lack of security. Also user has the option to delete the account</p>
  
+ <p> database based on PostgreSQL and has a table of 13 columns with id=email <p>
