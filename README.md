@@ -8,4 +8,4 @@ There is also a <a color="red" href="https://airlines-demo-version.herokuapp.com
 
 <p align="left">This is the entity relationship diagram of the database:</p>
 <img align="left" width="400" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/ER%20diagram%20copy.jpg"/>
-<img align="right" width="600" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/Relational%20diagram%20copy.jpg"/>
+<img align="right" width="550" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/Relational%20diagram%20copy.jpg"/>
