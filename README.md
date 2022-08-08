@@ -9,4 +9,4 @@
  User has the ability to login by email(as username) and password at the personal info which is not realistic model 
  because of lack of security. Also user has the option to delete the account</p>
  <p> database based on PostgreSQL and has a table of 13 columns with id=email <p>
-<p>There is a <a href="https://airlines-demo-version.herokuapp.com/private.php" style="color:red;">private</a> side of airlines for users that can see more details about flights</p>
+<p>There is a <a href="https://airlines-demo-version.herokuapp.com/private.php" style="font-color:red;">private</a> side of airlines for users that can see more details about flights</p>
