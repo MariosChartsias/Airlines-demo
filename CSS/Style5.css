@@ -1,0 +1,56 @@
+body {
+	background:linear-gradient(to bottom,#AFEEEE,#3399ff) fixed;
+}
+div.columns{
+	position:fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: none;
+	padding: 20px;
+	background-color:white;
+	max-width:85%;
+	max-height:60%;
+	min-width:5%;
+	min-height:10%;
+	overflow: auto;
+	box-shadow: 0 0 1px 1px #8A2BE2;"
+}
+
+
+table.first{
+	padding:0;
+	white-space:nowrap;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #f2f2f2;
+	color:black;
+	border-collapse:collapse;
+}
+
+table.first, th, td {
+	border: 1px solid white;
+	padding:10px 0 10px 0;
+	text-align:center;
+}
+
+tr:first-child{
+	background-color:black;
+	color:red;
+	border: 1px solid black;
+	cursor:text;
+}
+
+tr:nth-child(even){
+	background-color:#d9d9d9;
+	color:black;
+}
+
+a{
+	cursor:pointer;
+	margin:0 0 0 15px;
+}
+
+input.delete:hover {
+	color:red;
+}
