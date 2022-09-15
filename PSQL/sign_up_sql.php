@@ -11,7 +11,7 @@ if (isset($_POST['submit']) && $_POST['submit']=='Submit') {
 	$sql = "INSERT INTO info(fname, lname, adress, postal, country, country_code, number, email, password, card, typeofcard, expdate, ccv) VALUES('".$_POST['fname']."','".$_POST['lname']."','".$_POST['adress']."','".$_POST['postal']."','".$_POST['country']."','".$_POST['code']."','".$_POST['number']."','".$_POST['email']."','".$_POST['password']."','".$_POST['card']."','".$_POST['CardType']."','".$_POST['expdate']."','".$_POST['ccv']."')";
 	$flag=1;
 }else if(isset($_POST['login']) && $_POST['login']=='Login'){
-	$sql = "SELECT * FROM info WHERE email='".$_POST['email']."';";
+	$sql = "SELECT * FROM info WHERE email='".$_POST['email']."' AND password='".$_POST['password']."';";
 	$flag=0;
 }else if(isset($_POST['delete']) && $_POST['delete']=='delete'){
 	$sql = "DELETE FROM info WHERE email='".$_POST['email']."';";
