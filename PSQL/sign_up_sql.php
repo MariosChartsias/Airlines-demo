@@ -33,6 +33,11 @@ if ($result && $flag==1) {
 	echo '<h1 style="text-align:center; color:#00cc00; position:absolute; transform:translate(-50%, -50%); left:50%; top:40%;" >successful delete 
 		  <img src="../images/381607_complete_icon.png" alt="image" style="max-height:25px;  position:relative; top:3px; margin-right:80px;">
 		  <script>setTimeout(function () {window.location.replace("http://localhost/airlines-demo/index.php", "_blank");}, 4000);</script></h1>'; 
+}elseif(!$result && $flag==0){
+	echo '<h1 style="text-align:center; color:red; position:absolute; transform:translate(-50%, -50%); left:50%; top:40%;" >Wrong username or password, please try again 
+	<img src="../images/Delete-Red-X-Button-Transparent.png" alt="image" style="max-height:25px;  position:relative; top:5px; margin-right:80px;">
+	</h1>';
+	echo '<script>setTimeout(function () {window.location.replace("http://localhost/airlines-demo/sign_up.php", "_blank");}, 1000);</scipt>';
 }  
 
 
