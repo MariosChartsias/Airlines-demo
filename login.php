@@ -15,18 +15,21 @@
 		<table>
 			<tr>
 				<th></th>
+				<th></th>
 				<th style="text-align:center;"><h3>Login</h3></th>
 			</tr>
 			<tr>
 				<th><img src="images/login.png" style="width:80px;"></th>
-				<th><input type="email" name="email" id="email" placeholder="email"></th>
 				<th></th>
+				<th><input type="email" name="email" id="email" placeholder="email"></th>
 			</tr>
 			<tr>
+				<th></th>
 				<th></th>
 				<th><input type="password" name="password" placeholder="password"></th>
 			</tr>
 			<tr>
+				<th></th>
 				<th></th>
 				<td><input type="submit" name="login" id="Login" value="Login"><a href="sign_up.php" style="margin-left:10px;"><input type="button" name="sign_up" id="sign_up" value="Sign up"></a></td>
 			</tr>
