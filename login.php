@@ -18,7 +18,7 @@
 				<th style="text-align:center;"><h3>Login</h3></th>
 			</tr>
 			<tr>
-				<th><img src="images/login.png" style="width:90px;"></th>
+				<th><img src="images/login.png" style="width:80px;"></th>
 				<th><input type="email" name="email" id="email" placeholder="email"></th>
 				<th></th>
 			</tr>
