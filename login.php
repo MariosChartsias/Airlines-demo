@@ -10,7 +10,7 @@
 <p id='error' style="text-align:center; color:red; margin-top:9cm;"></p>
 <div style="position:absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border: none; background-color:white; max-width:50%; max-height:50%; min-width:20%; min-height:25%; overflow:auto; box-shadow: 0 0 1px 1px #8A2BE2;">
 <div style="position:absolute; left:30%;">
-<img src="images/login.png" style="width:90px; position:absolute; right:4.0cm; top:1.5cm;">
+
 	<form method="post" action="PSQL/sign_up_sql.php" style="margin:auto; padding:auto;">
 		<table>
 			<tr>
@@ -18,7 +18,7 @@
 				<th style="text-align:center;"><h3>Login</h3></th>
 			</tr>
 			<tr>
-				<th></th>
+				<th><img src="images/login.png" style="width:90px;"></th>
 				<th><input type="email" name="email" id="email" placeholder="email"></th>
 				<th></th>
 			</tr>
